@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "grand-pact-120401",
+    "project_number": "546117688928",
+    "name": "PathGoogleMap"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546117688928:android:975f55c84bcd795b",
+        "client_id": "android:com.javapapers.android.maps.pathgooglemapactivity",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.javapapers.android.maps.pathgooglemapactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
